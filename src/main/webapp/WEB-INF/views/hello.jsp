@@ -17,6 +17,6 @@
 		<br>
 		<a href="<c:url value="priceincrease.htm"/>">Increase Prices</a>
 		<br>
-		<!-- DELETE -->
+		<!-- Campa comment -->
 	</body>
 </html>
